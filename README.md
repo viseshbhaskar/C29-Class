@@ -1,2 +1,2 @@
-# C29-Class
-Slingshot tweaking, no errors this time ;)
+# p5.play-boilerplate
+Boiler plate for p5.play
